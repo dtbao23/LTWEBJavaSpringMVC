@@ -1,0 +1,7 @@
+controller.AccountController=org.springframework.stereotype.Component
+controller.CartController=org.springframework.stereotype.Component
+controller.CategoryController=org.springframework.stereotype.Component
+controller.HomePageController=org.springframework.stereotype.Component
+controller.OrderController=org.springframework.stereotype.Component
+controller.ProductController=org.springframework.stereotype.Component
+controller.ShopController=org.springframework.stereotype.Component
